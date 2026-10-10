@@ -22,3 +22,8 @@ Muted, pastel light and dark themes for Gitea, with every color tuned for readab
 3. Restart Gitea, then pick a theme under **Settings → Appearance**.
 
 Every color variable in Gitea's built-in themes is overridden, including diffs, syntax highlighting, Actions log ANSI colors, alerts and badges.
+
+## Previews
+![Preview Diff](preview-diff.png)
+![Preview PR](preview-pr.png)
+![Preview Repo](preview-repo.png)
